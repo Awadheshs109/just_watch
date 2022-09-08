@@ -62,7 +62,9 @@ a {
     font-size: 6vh;
     color: var(--lavender);
     text-align: center;
-    padding: 4vh 3vw 4vh 3vw;
+    /* padding: 4vh 3vw 4vh 3vw; */
+    
+    padding: 3vh 6.5vw 2vh 6vw;
 }
 
 #main-doc {
